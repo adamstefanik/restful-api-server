@@ -2,7 +2,10 @@
 build
 .vscode
 .DS_Store
+data/
 *.mv.db
 *.trace.db
 *.lock.db
 pid-list.txt
+test_report.html
+natt-logs/
